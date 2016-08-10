@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0
 color:
-  saturation: 0.8333333
+  saturation: 0.7240143
   brandStrength: 0.5591398
-  lightness: 1
+  lightness: 0.6344086
   brandColors:
     - '#F3F4F6'
     - '#0F1010'
     - '#636459'
     - '#C5C4B8'
     - '#838173'
-  rhythmicContrast: 0.7634408
+  rhythmicContrast: 0.5017921
+typography_spectrum: 0
 layout_spectrum: 0
 name: mwilming
