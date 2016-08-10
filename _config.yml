@@ -1,26 +1,26 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-typography_spectrum: 0
 color:
   saturation: 0.7259015
   brandStrength: 1
-  lightness: 0.5635199
+  rhythmicContrast: 0.1629333
   brandColors:
     - '#F3F4F6'
     - '#0F1010'
     - '#636459'
     - '#C5C4B8'
     - '#838173'
-  rhythmicContrast: 0.1629333
+  lightness: 0.5635199
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 layout_spectrum: 0
+typography_spectrum: 0
 name: mwilming
