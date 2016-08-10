@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.7259015
+  lightness: 0.5635199
+  brandStrength: 0.2256864
+  brandColors:
+    - '#F3F4F6'
+    - '#0F1010'
+    - '#636459'
+    - '#C5C4B8'
+    - '#838173'
+  rhythmicContrast: 0.1629333
+typography_spectrum: 0
+name: mwilming
