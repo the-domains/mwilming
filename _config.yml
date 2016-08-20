@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.1827957
 color:
   saturation: 0.1827957
   brandStrength: 0.811828
-  lightness: 0.4820789
+  rhythmicContrast: 0.3566308
   brandColors:
     - '#F3F4F6'
     - '#0F1010'
     - '#636459'
     - '#C5C4B8'
     - '#838173'
-  rhythmicContrast: 0.3566308
+  lightness: 0.4820789
 layout_spectrum: 0
 name: mwilming
